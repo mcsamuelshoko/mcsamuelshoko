@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 ![Mc Smauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stroustrups-Sentinel&show_icons=true&bg_color=00000000)
 
 ## `Programmig Languages 🤖`
-    *based on public repos
+
+>  **ℹ️ based on public repos** 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stroustrups-Sentinel&layout=donut-vertical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## `Fellow visits 👀`

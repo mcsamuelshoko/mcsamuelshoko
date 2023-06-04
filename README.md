@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ## `Fellow visitors`
 
-![Visitor Count](https://profile-counter.glitch.me/ameizi/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Stroustrups-Sentinel/count.svg)

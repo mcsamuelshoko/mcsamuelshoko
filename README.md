@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 ## `Fellow visits 👀`
 
 ![Visitor Count](https://profile-counter.glitch.me/Stroustrups-Sentinel/count.svg)
+
+## `Repo Activity 📊`
+
+![Github Activity](./profile-3d-contrib/profile-gitblock.svg)

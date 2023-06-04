@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ---
 
-## `Fellow visitors`
+## `Fellow visits 👀`
 
 ![Visitor Count](https://profile-counter.glitch.me/Stroustrups-Sentinel/count.svg)

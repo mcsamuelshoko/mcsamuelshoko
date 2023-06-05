@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Mc Smauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stroustrups-Sentinel&show_icons=true&bg_color=00000000)
 
-## `Programmig Languages 🤖`
+## `Programming Languages 🤖`
 
 >  **ℹ️ based on public repos** 
 

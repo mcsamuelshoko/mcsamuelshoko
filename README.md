@@ -17,18 +17,25 @@ Here are some ideas to get you started:
 
 # `welcome 🤗`
 
-Im a full-stack web developer with skills in front-end (HTML, CSS, JavaScript), back-end (Php, Java), and mobile development (Flutter). Passionate about using technology to build products that solve real-life problems.
+Im a full-stack web developer with skills in front-end (HTML, CSS, JavaScript, etc.), back-end (Php, Java, Python, etc.), and mobile development (Flutter). Passionate about using technology to build products that solve real-life problems.
 
-**Projects include:**
+* **Fresh out of college 👨‍🎓** with a passion for technology and a drive to create ✨high-quality, production-grade software.
+* **Skilled in full-stack web development 🌐, mobile development 📱, and UI/UX design.**
+* **Actively learning software architecture 🏗️, systems engineering ⚙️, performance in computing ⚡️, programming language principles 📝 to make my software scalable and efficient, & also project management 🗂️, IoT 📡, and data science 📊.**
+* **Adventurous and optimistic about the future of technology 🚀.**
+* **I'm motivated by challenging problems and continual learning. Looking for opportunities to collaborate and build projects that make a difference. 💡fun ideas and quick to adapt to new languages 🌎.**
 
-- A quotation invoicer
-- A flutter health app
+**Looking for opportunities to:**
 
-Actively learning software architecture, systems engineering, and performance optimization to make my software scalable and efficient.
+* Contribute to open source projects 🤝.
+* Work on exciting new technologies 💡.
+* Learn from and collaborate with other talented engineers 👨‍💻👩‍💻.
+  
+Please reach out if you have an interesting idea - I learn best by building real products with others.
 
-I'm motivated by challenging problems and continual learning. Looking for opportunities to collaborate and build projects that make a difference. Please reach out if you have an interesting idea - I learn best by building real products with others.
+## **`Let's have some wonderful adventures in this 'eventful' world of computers! 💻`**
 
----
+
 
 ![Mc Smauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stroustrups-Sentinel&show_icons=true&bg_color=00000000)
 

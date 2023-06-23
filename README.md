@@ -14,34 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 😁 Welcome!
 
-# `welcome 🤗`
+I'm a full-stack web developer with skills in front-end 🎨, back-end 🖥️, and mobile development 📱(Flutter). Passionate about using technology to build products that solve real-life problems.
 
-Im a full-stack web developer with skills in front-end (HTML, CSS, JavaScript, etc.), back-end (Php, Java, Python, etc.), and mobile development (Flutter). Passionate about using technology to build products that solve real-life problems.
+🎓 **Fresh out of college** with a drive to create ✨high-quality, production-grade software.
 
-* **Fresh out of college 👨‍🎓** with a passion for technology and a drive to create ✨high-quality, production-grade software.
-* **Skilled in full-stack web development 🌐, mobile development 📱, and UI/UX design.**
-* **Actively learning software architecture 🏗️, systems engineering ⚙️, performance in computing ⚡️, programming language principles 📝 to make my software scalable and efficient, & also project management 🗂️, IoT 📡, and data science 📊.**
-* **Adventurous and optimistic about the future of technology 🚀.**
-* **I'm motivated by challenging problems and continual learning. Looking for opportunities to collaborate and build projects that make a difference. 💡fun ideas and quick to adapt to new languages 🌎.**
+🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design.
 
-**Looking for opportunities to:**
+📚 **Actively learning software architecture 🏗️, systems engineering ⚙️, performance in computing ⚡️, programming language principles 📝, project management 🗂️, IoT 📡, and data science 📊** to make my software scalable and efficient.
 
-* Contribute to open source projects 🤝.
-* Work on exciting new technologies 💡.
-* Learn from and collaborate with other talented engineers 👨‍💻👩‍💻.
-  
-Please reach out if you have an interesting idea - I learn best by building real products with others.
+💡 Adventurous and optimistic about the future of technology.
 
-## **`Let's have some wonderful adventures in this 'eventful' world of computers! 💻`**
+🤝 **Looking for opportunities to contribute to open source projects**, work on exciting new technologies, and learn from other talented engineers 👩‍💻👨‍💻.
 
-
+Let's create wonderful adventures in this 'eventful' world of computers! 💻
 
 ![Mc Smauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stroustrups-Sentinel&show_icons=true&bg_color=00000000)
 
 ## `Programming Languages 🤖`
 
->  **ℹ️ based on public repositories** 
+> **ℹ️ based on public repositories**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stroustrups-Sentinel&layout=donut-vertical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 

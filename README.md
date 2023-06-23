@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello  👋
 
 <!--
 **Stroustrups-Sentinel/Stroustrups-Sentinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 😁 Welcome!
+
 
 I'm a full-stack web developer with skills in front-end 🎨, back-end 🖥️, and mobile development 📱(Flutter). Passionate about using technology to build products that solve real-life problems.
 

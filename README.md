@@ -30,7 +30,16 @@ I'm a full-stack web developer with skills in front-end 🎨, back-end 🖥️, 
 
 Let's create wonderful adventures in this 'eventful' world of computers! 💻
 
-![Mc Smauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stroustrups-Sentinel&show_icons=true&bg_color=00000000)
+  
+<!-- ![Mc Smauel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stroustrups-Sentinel&show_icons=true&bg_color=00000000) -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Stroustrups-Sentinel&theme=transparent&card_width=400)](https://git.io/streak-stats) -->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Stroustrups-Sentinel&show_icons=true&bg_color=00000000" width="49%" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Stroustrups-Sentinel&theme=transparent&card_width=450" width="47%"></a> 
+</div>
+
+
 
 ## `Programming Languages 🤖`
 

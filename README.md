@@ -2,6 +2,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/ef9df9b6-cb1a-4e73-9d42-35b93e0014d0.svg)](https://wakatime.com/@ef9df9b6-cb1a-4e73-9d42-35b93e0014d0)
 
+<a href="https://wakatime.com/@ef9df9b6-cb1a-4e73-9d42-35b93e0014d0"><img src="https://wakatime.com/badge/user/ef9df9b6-cb1a-4e73-9d42-35b93e0014d0.svg" alt="Total time coded since Jun 4 2023" /></a>
+[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ShokoSamuel)
+[![github](https://img.shields.io/github/followers/Stroustrups-Sentinel?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+
 <!--
 **Stroustrups-Sentinel/Stroustrups-Sentinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

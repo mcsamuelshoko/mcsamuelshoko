@@ -1,5 +1,7 @@
 # Hello  👋
 
+[![wakatime](https://wakatime.com/badge/user/ef9df9b6-cb1a-4e73-9d42-35b93e0014d0.svg)](https://wakatime.com/@ef9df9b6-cb1a-4e73-9d42-35b93e0014d0)
+
 <!--
 **Stroustrups-Sentinel/Stroustrups-Sentinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

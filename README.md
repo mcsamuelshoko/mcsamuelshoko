@@ -49,8 +49,11 @@ Let's create wonderful adventures in this 'eventful' world of computers! 💻
 ## `Programming Languages 🤖`
 
 > **ℹ️ based on public repositories**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroustrups-Sentinel&layout=donut-vertical&bg_color=00000000" width="42%">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stroustrups-Sentinel&column=3" width="53%"></a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stroustrups-Sentinel&layout=donut-vertical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## `Fellow visits 👀`
 

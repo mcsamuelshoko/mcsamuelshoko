@@ -1,6 +1,8 @@
 # Hello  👋
 
 [![wakatime](https://wakatime.com/badge/user/ef9df9b6-cb1a-4e73-9d42-35b93e0014d0.svg)](https://wakatime.com/@ef9df9b6-cb1a-4e73-9d42-35b93e0014d0 "Total time coded since Jun 4 2023")
+![Static Badge](https://img.shields.io/badge/Behance-profile-%230057ff?logo=behance&link=https%3A%2F%2Fwww.behance.net%2Fmcsamuelshoko)
+
 
 <!-- [![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ShokoSamuel)
 [![github](https://img.shields.io/github/followers/Stroustrups-Sentinel?logo=github&style=plastic)](https://github.com/Stroustrups-Sentinel?tab=followers) -->

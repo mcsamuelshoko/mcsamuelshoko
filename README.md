@@ -30,7 +30,7 @@ I'm a full-stack web developer with skills in front-end 🎨, back-end 🖥️, 
 
 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design.
 
-📚 **Actively learning software architecture 🏗️, systems engineering ⚙️, performance in computing ⚡️, programming language principles 📝, project management 🗂️, IoT 📡, and data science 📊** to make my software scalable and efficient.
+📚 **Actively learning software architecture 🏗️, systems engineering ⚙️, performance in computing ⚡️, programming language principles 📝, project management 🗂️, IoT 📡, and data analytics 📊** to make my software scalable and efficient.
 
 💡 Adventurous and optimistic about the future of technology.
 

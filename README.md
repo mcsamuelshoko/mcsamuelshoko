@@ -1,8 +1,8 @@
 # Hello  👋
 
 [![wakatime](https://wakatime.com/badge/user/ef9df9b6-cb1a-4e73-9d42-35b93e0014d0.svg)](https://wakatime.com/@ef9df9b6-cb1a-4e73-9d42-35b93e0014d0 "Total time coded since Jun 4 2023")&nbsp;
-![Static Badge](https://img.shields.io/badge/Behance-profile-%230057ff?logo=behance&link=https%3A%2F%2Fwww.behance.net%2Fmcsamuelshoko)&nbsp;
-![Static Badge](https://img.shields.io/badge/Linkedin-profile-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmc-samuel-shoko-2483731b5)&nbsp;
+[![Static Badge](https://img.shields.io/badge/Behance-profile-%230057ff?logo=behance&link=https%3A%2F%2Fwww.behance.net%2Fmcsamuelshoko)](https://www.behance.net/mcsamuelshoko)&nbsp;
+[![Static Badge](https://img.shields.io/badge/Linkedin-profile-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmc-samuel-shoko-2483731b5)](https://www.linkedin.com/mc-samuel-shoko-2483731b5)&nbsp;
 
 
 <!-- [![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ShokoSamuel)

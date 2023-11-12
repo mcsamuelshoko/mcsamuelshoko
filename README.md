@@ -1,5 +1,6 @@
 # Hello  👋
 
+[![Static Badge](https://img.shields.io/badge/website-Portfolio-blue?logo=gatsby&labelColor=%231e4039&color=%23357266&link=https%3A%2F%2Fstroustrups-sentinel.github.io%2Freadme%2F)](https://stroustrups-sentinel.github.io/readme "my website / SWE portfolio")&nbsp;
 [![wakatime](https://wakatime.com/badge/user/ef9df9b6-cb1a-4e73-9d42-35b93e0014d0.svg)](https://wakatime.com/@ef9df9b6-cb1a-4e73-9d42-35b93e0014d0 "Total time coded since Jun 4 2023")&nbsp;
 [![Static Badge](https://img.shields.io/badge/Behance-profile-%230057ff?logo=behance&link=https%3A%2F%2Fwww.behance.net%2Fmcsamuelshoko)](https://www.behance.net/mcsamuelshoko "view Behance profile")&nbsp;
 [![Static Badge](https://img.shields.io/badge/Linkedin-profile-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmc-samuel-shoko-2483731b5)](https://www.linkedin.com/in/mc-samuel-shoko-2483731b5 "view LinkedIn profile")&nbsp;
@@ -30,7 +31,7 @@ I'm a full-stack web developer with skills in front-end 🎨, back-end 🖥️, 
 
 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design.
 
-📚 **Actively learning software architecture 🏗️, systems engineering ⚙️, performance in computing ⚡️, programming language principles 📝, project management 🗂️, IoT 📡, and data analytics 📊** to make my software scalable and efficient.
+📚 **Actively engaged in continual learning of software architecture 🏗️, systems thinking 🧠, programming language principles 📝, performance in computing ⚡️, systems engineering ⚙️, project management 🗂️, IoT 📡, data analytics 📊** and more to make software scalable and efficient.
 
 💡 Adventurous and optimistic about the future of technology.
 

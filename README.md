@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a full-stack web developer with skills in front-end 🎨, back-end 🖥️, and mobile development 📱(Flutter). Passionate about using technology to build products that solve real-life problems.
+I'm a Software Engineer with skills in full-stack web development, front-end 🎨, back-end 🖥️, and mobile development 📱(Flutter). Passionate about using technology to build products that solve real-life problems.
 
-🎓 **Fresh out of college** with a drive to create ✨high-quality, production-grade software.
+🎓 **Fresh out of college (Computer Science Major)** with a drive to create ✨high-quality, production-grade software.
 
 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design.
 

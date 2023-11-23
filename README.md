@@ -31,7 +31,7 @@ I'm a Software Engineer with skills in full-stack web development, front-end �
 
 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design.
 
-📚 **Actively engaged in continual learning of software architecture 🏗️, systems thinking 🧠, programming language principles 📝, performance in computing ⚡️, systems engineering ⚙️, project management 🗂️, IoT 📡, data analytics 📊** and more to make software scalable and efficient.
+📚 **Actively engaged in continual learning** to make software scalable and efficient.
 
 💡 Adventurous and optimistic about the future of technology.
 

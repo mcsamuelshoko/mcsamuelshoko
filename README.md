@@ -72,6 +72,10 @@ I find passion in using technology to build products that solve real-life proble
 
 ![Visitor Count](https://profile-counter.glitch.me/Stroustrups-Sentinel/count.svg)
 
-## `Repo Activity 📊`
 
+<details>
+  <summary><h2><code>Repo Activity 📊</code></h2></summary>
+  
 ![Github Activity](./profile-3d-contrib/profile-gitblock.svg)
+
+</details>

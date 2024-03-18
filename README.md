@@ -37,7 +37,7 @@ I find passion in using technology to build products that solve real-life proble
 
 <!-- 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design. -->
 
-- [x] 📚 **Actively engaged in continual learning** to make software scalable and efficient.
+- [x] 📚 **Actively engaged in continual learning** to make software scalable, efficient and safe.
 
 - [x] 💡 Adventurous and optimistic about the future of technology.
 

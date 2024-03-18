@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a Software Engineer with skills in full-stack **`web development`**, front-end 🎨, back-end 🖥️, and **`mobile development`** 📱 (+ cross platform)<!--(Flutter)-->.  
+I'm a Software Engineer with skills in full-stack **`web development`**, front-end 🎨, back-end 🖥️, **`mobile development`** 📱 (+ cross platform)<!--(Flutter)--> and a **`UI/UX`** 🌟 enthusiast.  
 I find passion in using technology to build products that solve real-life problems.
 
 <br/>

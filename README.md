@@ -31,15 +31,17 @@ Here are some ideas to get you started:
 I'm a Software Engineer with skills in full-stack **`web development`**, front-end 🎨, back-end 🖥️, and **`mobile development`** 📱 (+ cross platform)<!--(Flutter)-->.  
 I find passion in using technology to build products that solve real-life problems.
 
-🎓 **Fresh out of college (Computer Science Major)** with a drive to create ✨high-quality, production-grade software.
+<br/>
+
+- [x] 🎓 **Fresh out of college (Computer Science Major)** with a drive to create ✨high-quality, production-grade software.
 
 <!-- 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design. -->
 
-📚 **Actively engaged in continual learning** to make software scalable and efficient.
+- [x] 📚 **Actively engaged in continual learning** to make software scalable and efficient.
 
-💡 Adventurous and optimistic about the future of technology.
+- [x] 💡 Adventurous and optimistic about the future of technology.
 
-🤝 **Looking for opportunities to contribute to open source projects**, work on exciting new technologies, and learn from other talented engineers 👩‍💻👨‍💻.
+- [x] 🤝 **Looking for opportunities to contribute to making a meaningful impact**, work on exciting technologies, and learn from other talented engineers 👩‍💻👨‍💻 like you.
 
 ---
 

@@ -33,15 +33,14 @@ I find passion in using technology to build products that solve real-life proble
 
 <br/>
 
-- [x] 🎓 **Fresh out of college (Computer Science Major)** with a drive to create ✨high-quality, production-grade software.
-
+<!-- - [x] 🎓 **Fresh out of college (Computer Science Major)** with a drive to create ✨high-quality, production-grade software. -->
 <!-- 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design. -->
+<!-- - [x] 📚 **Actively engaged in continual learning** to make software scalable, efficient and safe. -->
+<!-- - [x] 💡 Adventurous and optimistic about the future of technology.  -->
+<!-- - [x] 🤝 **Looking for opportunities to contribute to making a meaningful impact**, work on exciting technologies, and learn from other talented engineers 👩‍💻👨‍💻 like you. -->
 
-- [x] 📚 **Actively engaged in continual learning** to make software scalable, efficient and safe.
-
-- [x] 💡 Adventurous and optimistic about the future of technology.
-
-- [x] 🤝 **Looking for opportunities to contribute to making a meaningful impact**, work on exciting technologies, and learn from other talented engineers 👩‍💻👨‍💻 like you.
+>### `🚀 Founder mode: ON`  
+>### `⚠️ Exponential growth in progress`  
 
 ---
 

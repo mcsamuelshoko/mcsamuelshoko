@@ -44,7 +44,7 @@ I find passion in using technology to build products that solve real-life proble
 
 ---
 
-😁😃🥳 Let's have wonderful adventures in this 'eventful' world of computers! 💻
+<!-- 😁😃🥳 Let's have wonderful adventures in this 'eventful' world of computers! 💻 -->
 
 <br/>
   

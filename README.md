@@ -1,6 +1,6 @@
 # Hello  👋
 
-[![Portfolio Badge](https://img.shields.io/badge/website-Portfolio-blue?logo=gatsby&labelColor=%231e4039&color=%23357266&link=https%3A%2F%2Fmcsamuelshoko.github.io%2Freadme%2F)](https://mcsamuelshoko.github.io/readme "my website / SWE portfolio")&nbsp;
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-website-blue?logo=gatsby&labelColor=%231e4039&color=%23357266&link=https%3A%2F%2Fmcsamuelshoko.github.io%2Freadme%2F)](https://mcsamuelshoko.github.io/readme "my website / SWE portfolio")&nbsp;
 [![wakatime](https://wakatime.com/badge/user/ef9df9b6-cb1a-4e73-9d42-35b93e0014d0.svg)](https://wakatime.com/@ef9df9b6-cb1a-4e73-9d42-35b93e0014d0 "Total time coded since Jun 4 2023")&nbsp;
 [![MS-Learn Profile Badge](https://img.shields.io/badge/microsoft_learn-badges-blue?logo=microsoft&color=lightblue)](https://learn.microsoft.com/en-us/users/mcsamuelshoko-2509/ "My profile showcasing the stuff i have learned and that i have interest in")&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-profile-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmc-samuel-shoko-2483731b5)](https://www.linkedin.com/in/mc-samuel-shoko-2483731b5 "view LinkedIn profile")&nbsp;
@@ -28,24 +28,20 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software Engineer with skills in full-stack **`web development`**, front-end 🎨, back-end 🖥️, **`mobile development`** 📱 (+ cross platform)<!--(Flutter)--> and a **`UI/UX`** 🌟 designer.  
-
-| Domain | Skills |
-|--------|---------|
-| Web Development | Full-Stack, Front-End, Back-End |
-| Mobile | Cross-Platform Development |
-| Design | UI/UX Design |
-| Platforms | Web, Mobile, Desktop* |
-
 I find passion in using technology to build products that solve real-life problems.
 
 <br/>
 
+## `Main Languages ✒️`
+
 <div align="center">
-    <a href="" target="_blank"><img src="https://api.iconify.design/devicon:typescript.svg" height="80" />
-    <a href="" target="_blank"><img src="https://api.iconify.design/devicon:go.svg" height="80" />
-    <a href="" target="_blank"><img src="https://api.iconify.design/devicon:csharp.svg" height="80" />
-    <a href="" target="_blank"><img src="https://api.iconify.design/devicon:elixir.svg" height="80" />
+    <a href="https://www.typescriptlang.org/" target="_blank" title="visit Typescript"><img src="https://api.iconify.design/devicon:typescript.svg" height="80" />
+    <a href="https://go.dev/" target="_blank" title="visit Golang"><img src="https://api.iconify.design/devicon:go.svg" height="80" />
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" title="visit C#"><img src="https://api.iconify.design/devicon:csharp.svg" height="80" />
+    <a href="https://elixir-lang.org/" target="_blank" title="visit Elixir"><img src="https://api.iconify.design/devicon:elixir.svg" height="80" />
 </div>
+
+---
 
 ---
 
@@ -56,9 +52,22 @@ I find passion in using technology to build products that solve real-life proble
 <!-- - [x] 🤝 **Looking for opportunities to contribute to making a meaningful impact**, work on exciting technologies, and learn from other talented engineers 👩‍💻👨‍💻 like you. -->
 
 <div align="center">
-    
+<div>
+        
 ### `🚀 Founder mode: ON`  
 ### `⚠️ Exponential growth in progress`  
+    
+</div>
+<div>
+
+| Domain | Skills |
+|--------|---------|
+| Web Development | Full-Stack, Front-End, Back-End |
+| Mobile | Cross-Platform Development |
+| Design | UI/UX Design |
+| Platforms | Web, Mobile, Desktop* |
+
+</div>
 
 </div>
 

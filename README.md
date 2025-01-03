@@ -50,7 +50,7 @@ I find passion in using technology to build products that solve real-life proble
 <!-- - [x] 📚 **Actively engaged in continual learning** to make software scalable, efficient and safe. -->
 <!-- - [x] 💡 Adventurous and optimistic about the future of technology.  -->
 <!-- - [x] 🤝 **Looking for opportunities to contribute to making a meaningful impact**, work on exciting technologies, and learn from other talented engineers 👩‍💻👨‍💻 like you. -->
-
+<!--
 <div align="center">
 <div>
         
@@ -70,7 +70,7 @@ I find passion in using technology to build products that solve real-life proble
 </div>
 
 </div>
-
+-->
 
 <!-- 😁😃🥳 Let's have wonderful adventures in this 'eventful' world of computers! 💻 -->
 
@@ -85,8 +85,13 @@ I find passion in using technology to build products that solve real-life proble
 </div>
 
 
+## `Fellow visits 👀`
 
-## `Programming Languages 🤖`
+![Visitor Count](https://profile-counter.glitch.me/mcsamuelshoko/count.svg)
+
+
+<details>
+  <summary><h2><code>Programming Languages 🤖</code></h2></summary>
 
 > **ℹ️ based on public repositories**
 <div align="center">
@@ -94,10 +99,7 @@ I find passion in using technology to build products that solve real-life proble
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcsamuelshoko&column=3" width="53%"></a>
 </div>
 
-
-## `Fellow visits 👀`
-
-![Visitor Count](https://profile-counter.glitch.me/mcsamuelshoko/count.svg)
+</details>
 
 
 <details>

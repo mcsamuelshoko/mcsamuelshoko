@@ -27,8 +27,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a Software Engineer with skills in full-stack **`web development`**, front-end 🎨, back-end 🖥️, **`mobile development`** 📱 (+ cross platform)<!--(Flutter)--> and a **`UI/UX`** 🌟 designer.  
 
-I'm a Software Engineer with skills in full-stack **`web development`**, front-end 🎨, back-end 🖥️, **`mobile development`** 📱 (+ cross platform)<!--(Flutter)--> and a **`UI/UX`** 🌟 enthusiast.  
+| Domain | Skills |
+|--------|---------|
+| Web Development | Full-Stack, Front-End, Back-End |
+| Mobile | Cross-Platform Development |
+| Design | UI/UX Design |
+| Platforms | Web, Mobile, Desktop* |
+
 I find passion in using technology to build products that solve real-life problems.
 
 <br/>
@@ -39,9 +46,8 @@ I find passion in using technology to build products that solve real-life proble
     <a href="" target="_blank"><img src="https://api.iconify.design/devicon:csharp.svg" height="80" />
     <a href="" target="_blank"><img src="https://api.iconify.design/devicon:elixir.svg" height="80" />
 </div>
-      
-<hr/>
 
+---
 
 <!-- - [x] 🎓 **Fresh out of college (Computer Science Major)** with a drive to create ✨high-quality, production-grade software. -->
 <!-- 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design. -->
@@ -49,10 +55,13 @@ I find passion in using technology to build products that solve real-life proble
 <!-- - [x] 💡 Adventurous and optimistic about the future of technology.  -->
 <!-- - [x] 🤝 **Looking for opportunities to contribute to making a meaningful impact**, work on exciting technologies, and learn from other talented engineers 👩‍💻👨‍💻 like you. -->
 
->### `🚀 Founder mode: ON`  
->### `⚠️ Exponential growth in progress`  
+<div align="center">
+    
+### `🚀 Founder mode: ON`  
+### `⚠️ Exponential growth in progress`  
 
----
+</div>
+
 
 <!-- 😁😃🥳 Let's have wonderful adventures in this 'eventful' world of computers! 💻 -->
 

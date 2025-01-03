@@ -33,6 +33,16 @@ I find passion in using technology to build products that solve real-life proble
 
 <br/>
 
+<div align="center">
+    <a href="" target="_blank"><img src="https://api.iconify.design/devicon:typescript.svg" height="80" />
+    <a href="" target="_blank"><img src="https://api.iconify.design/devicon:go.svg" height="80" />
+    <a href="" target="_blank"><img src="https://api.iconify.design/devicon:csharp.svg" height="80" />
+    <a href="" target="_blank"><img src="https://api.iconify.design/devicon:elixir.svg" height="80" />
+</div>
+      
+<hr/>
+
+
 <!-- - [x] 🎓 **Fresh out of college (Computer Science Major)** with a drive to create ✨high-quality, production-grade software. -->
 <!-- 🚀 **Skilled in full-stack web development**, mobile development, and UI/UX design. -->
 <!-- - [x] 📚 **Actively engaged in continual learning** to make software scalable, efficient and safe. -->

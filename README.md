@@ -35,10 +35,10 @@ I find passion in using technology to build products that solve real-life proble
 ## `Main Languages ✒️`
 
 <div align="center">
-    <a href="https://www.typescriptlang.org/" target="_blank" title="visit Typescript"><img src="https://api.iconify.design/devicon:typescript.svg" height="80" />
-    <a href="https://go.dev/" target="_blank" title="visit Golang"><img src="https://api.iconify.design/devicon:go.svg" height="80" />
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" title="visit C#"><img src="https://api.iconify.design/devicon:csharp.svg" height="80" />
-    <a href="https://elixir-lang.org/" target="_blank" title="visit Elixir"><img src="https://api.iconify.design/devicon:elixir.svg" height="80" />
+    <a href="https://www.typescriptlang.org/" target="_blank" title="visit Typescript"><img src="https://api.iconify.design/devicon:typescript.svg" width="80" height="80" /></a>
+    <a href="https://go.dev/" target="_blank" title="visit Golang"><img src="https://api.iconify.design/devicon:go.svg"  width="80" height="80" /></a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" title="visit C#"><img src="https://api.iconify.design/devicon:csharp.svg"  width="80" height="80" /></a>
+    <a href="https://elixir-lang.org/" target="_blank" title="visit Elixir"><img src="https://api.iconify.design/devicon:elixir.svg"  width="80" height="80" /></a>
 </div>
 
 ---

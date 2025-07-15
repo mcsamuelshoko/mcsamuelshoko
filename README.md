@@ -88,7 +88,7 @@ I find passion in using technology to build products that solve real-life proble
 ## `Fellow visits 👀`
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/mcsamuelshoko/count.svg) -->
-![](https://api.visitorbadge.io/api/VisitorHit?user=mcsamuelshoko&repo=github-visitors-badge&countColor=%2353DD6C)
+![](https://api.visitorbadge.io/api/VisitorHit?user=mcsamuelshoko&repo=mcsamuelshoko&countColor=%2353DD6C&labelColor=%23040F0F)
 
 
 <details>

@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software Engineer with skills in full-stack **`web development`** 🌐, front-end, back-end, **`mobile development`** 📱 (+ cross platform)<!--(Flutter)--> and **`UI/UX`** 🎨 design.  
-I love working with **`APIs`** 🧩 and aspire to become a **`Software Architect`** 🗺️.  
+I love **`building APIs`** 🧩 and aspire to become a **`Software Architect`** 🗺️.  
 I'm passionate about using technology to build products that solve real problems.
 
 <br/>

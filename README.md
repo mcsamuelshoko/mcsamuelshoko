@@ -81,7 +81,7 @@ I'm passionate about using technology to build products that solve real problems
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mcsamuelshoko&theme=transparent&card_width=400)](https://git.io/streak-stats) -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mcsamuelshoko&show_icons=true&bg_color=00000000" width="49%" />
+<img src="https://github-readme-stats-fork-livid.vercel.app/api?username=mcsamuelshoko&show_icons=true&bg_color=00000000" width="49%" />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gold-two-88.vercel.app?user=mcsamuelshoko&theme=transparent&card_width=450" width="47%"></a> 
 </div>
 

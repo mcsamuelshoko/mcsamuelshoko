@@ -36,10 +36,10 @@ I'm passionate about using technology to build products that solve real problems
 ## `Main Languages ✒️`
 
 <div align="center">
-    <a href="https://www.typescriptlang.org/" target="_blank" title="visit Typescript"><img src="https://api.iconify.design/devicon:typescript.svg" width="80" height="80" /></a>
-    <a href="https://go.dev/" target="_blank" title="visit Golang"><img src="https://api.iconify.design/devicon:go.svg"  width="80" height="80" /></a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" title="visit C#"><img src="https://api.iconify.design/devicon:csharp.svg"  width="80" height="80" /></a>
-    <a href="https://elixir-lang.org/" target="_blank" title="visit Elixir"><img src="https://api.iconify.design/devicon:elixir.svg"  width="80" height="80" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" title="visit Typescript"><img src="https://api.iconify.design/devicon:typescript.svg" width="80" /></a>
+    <a href="https://go.dev/" target="_blank" title="visit Golang"><img src="https://api.iconify.design/devicon:go.svg"  width="80"  /></a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" title="visit C#"><img src="https://api.iconify.design/devicon:csharp.svg"  width="80"  /></a>
+    <a href="https://elixir-lang.org/" target="_blank" title="visit Elixir"><img src="https://api.iconify.design/devicon:elixir.svg"  width="80"  /></a>
 </div>
 
 ---
